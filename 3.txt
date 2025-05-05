@@ -1,5 +1,5 @@
 ALIASES
-gh repo new
+gh repo newaaa
 
 Examples
 # Create a repository interactively
