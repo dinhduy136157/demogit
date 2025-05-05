@@ -1,4 +1,4 @@
-Create a new GitHub repository.
+Create a new GitHub repositoryyyyy.
 
 To create a repository interactively, use gh repo create with no arguments.
 
